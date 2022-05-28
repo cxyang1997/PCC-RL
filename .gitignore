@@ -104,4 +104,3 @@ venv.bak/
 .mypy_cache/
 
 # model
-icml_paper_model/
